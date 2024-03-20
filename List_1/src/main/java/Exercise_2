@@ -1,4 +1,4 @@
-// Km/h to m/s Converter 
+// Km/h to m/s Converter
 
 import java.util.Scanner;
 public class Exercise_2 {

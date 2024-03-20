@@ -1,4 +1,4 @@
-// Read four grades, calculate the arithmetic mean and print the result. 
+// Read four grades, calculate the arithmetic mean and print the result.
 
 import java.util.Scanner;
 

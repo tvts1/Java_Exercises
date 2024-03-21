@@ -16,10 +16,12 @@ public class Exercise_5 {
 
         int unit, ten, hundred, reversedNumber;
 
+        // Extract individual digits from the input number
         unit = originalNumber % 10;
         ten = (originalNumber / 10) % 10;
         hundred = originalNumber / 100;
 
+        // Form the reversed number by rearranging the digits
         reversedNumber = unit * 100 + ten * 10 + hundred;
 
         System.out.println("Inverted number: " + reversedNumber);

@@ -1,1 +1,1 @@
-This repository contains a vast list of Java exercises.
+This repository contains lists of Java exercises.

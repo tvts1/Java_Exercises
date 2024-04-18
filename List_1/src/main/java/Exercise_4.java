@@ -1,4 +1,4 @@
-// Calculating the hypotenuse of a right triangle, given the lengths of its legs
+// Calculating the hypotenuse of a right triangle, given the lengths of its legs.
 
 import java.util.Scanner;
 

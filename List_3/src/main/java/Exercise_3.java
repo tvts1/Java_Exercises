@@ -44,7 +44,7 @@ public class Exercise_3 {
             System.out.println("There are no real roots for the equation");
         }
 
-        // Close the Scanner object
+        // Close the Scanner
         input.close();
     }
 }

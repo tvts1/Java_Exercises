@@ -41,7 +41,7 @@ public class Exercise_4 {
         // Calculate the average of the grades
         float average = (grade1 + grade2) / 2;
 
-        // Print average
+        // Print the average
         System.out.println("The average is " + average);
 
     }

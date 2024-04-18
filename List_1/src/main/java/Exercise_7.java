@@ -1,4 +1,4 @@
-/*Program to calculate birth year from age and current year*/
+/*Program to calculate birth year from age and current year.*/
 
 import java.util.Scanner;
 import java.time.Year;

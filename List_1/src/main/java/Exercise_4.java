@@ -12,10 +12,10 @@ public class Exercise_4 {
         System.out.println("Enter the length of the first leg: ");
         leg1 = input.nextDouble();
 
+        // Calculate the hypotenuse using Math.sqrt and Math.pow
         System.out.println("Enter the length of the first leg: ");
         leg2 = input.nextDouble();
 
-        // Calculate the hypotenuse using Math.sqrt and Math.pow
         double hypotenuse = Math.sqrt(Math.pow(leg1, 2) + Math.pow(leg2, 2));
 
         System.out.println("The hypotenuse of the triangle is " + hypotenuse);

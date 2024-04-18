@@ -43,5 +43,6 @@ public class Exercise_4 {
 
         // Print the average
         System.out.println("The average is " + average);
+
     }
 }

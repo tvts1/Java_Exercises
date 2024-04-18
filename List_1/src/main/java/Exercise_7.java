@@ -20,3 +20,4 @@ public class Exercise_7 {
         System.out.printf("You are %d years old\n", age);
     }
 }
+
